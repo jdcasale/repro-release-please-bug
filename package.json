@@ -1,5 +1,5 @@
 {
   "name": "repro-release-please-bug",
-  "version": "2.54.0-asdf.3",
+  "version": "2.54.0-asdf.4",
   "description": "Reproduction of release-please prerelease version bug"
 }
